@@ -1,8 +1,2 @@
 # nome
-Projeto da disciplina Dese. Web
-Linguagens: PHP, ETC
-Banco de dados: MySQL
-Autor: FUlano
-...
-...
-Descrição: Projeto descnseoasdfadsfhaskjhfkasfas,fadsad.... 
+Portfolio com projetos de BI feitos no Power BI
